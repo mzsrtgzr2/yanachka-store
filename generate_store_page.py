@@ -9,7 +9,7 @@ with open('README.md', 'w') as fp:
     fp.write('<center><h1> </h1></center>\n')
     for item in items:
         title = item.get('name')
-        fp.write(f' - [ {title} ](#{title})\n')
+        fp.write(f'[ {title} ](#{title})    ')
 
     for item in items:
         title = item.get('name')
