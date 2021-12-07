@@ -1,7 +1,9 @@
-<center><h1>החנות של ינהצ׳קה</h1></center>
+<center><h1> </h1></center>
 
 <div dir="rtl">
 ## האריה שאהב תות
+
+
 
 אני יודעת שהשם הוא לא מקורי במיוחד, אבל מה לעשות? הוא באמת אוהב תות!
 האריה המתוק הזה שובה בקסמיו כל זוג ידיים שאוחזות בו.
@@ -22,12 +24,17 @@
 - לבקשות מיוחדות נא לפנות ישירות לינה בטלפון <a href="tel:0546405208" target="_blank">0546405208</a> או ב<a href="https://wa.me/972546405208" target="_blank">ווטסאפ</a>
 
 
+
+
 ![](assets/1991803127.jpg)
+
 </div>
 
 
 <div dir="rtl">
 ## פינוקיו
+
+
 
 מכירים את פינוקיו? או שבעצם גדלתם על בורטינה?
 אצלנו בבית התנגן שיר הפתיחה של פינוקיו בקולי קולות ובריקודים מצחיקים!
@@ -48,12 +55,17 @@
 - ינה סורגת את הבובות במיוחד אז הכנת הבובה תיקח בין שבוע לשבועיים
 
 - לבקשות מיוחדות נא לפנות ישירות לינה בטלפון <a href="tel:0546405208" target="_blank">0546405208</a> או ב<a href="https://wa.me/972546405208" target="_blank">ווטסאפ</a>
+
+
 ![](assets/1951249256.jpg)
+
 </div>
 
 
 <div dir="rtl">
 ## ליצן קטן שלי
+
+
 
 ליצן קטן שלי, אולי תרקוד איתי? אולי? אולי תרקוד איתי :)
 ליצני הקטן שלי נולד לכבוד יום הולדת שנתיים של עידודו שלנו
@@ -73,12 +85,17 @@
 - ינה סורגת את הבובות במיוחד אז הכנת הבובה תיקח בין שבוע לשבועיים
 
 - לבקשות מיוחדות נא לפנות ישירות לינה בטלפון <a href="tel:0546405208" target="_blank">0546405208</a> או ב<a href="https://wa.me/972546405208" target="_blank">ווטסאפ</a>
+
+
 ![](assets/1951125940.jpg)
+
 </div>
 
 
 <div dir="rtl">
 ## אפודה לילדים
+
+
 
 אל תגידו לי שלא התאהבתם ממבט ראשון באפודה הסרוגה הקסומה הזו,
 לי אישית היא מזכירה את הילדות שלי ואת הבגדים הסרוגים שסבתא שלי הייתה סורגת לי ואחר כך אמא שלי סרגה לנכדים שלה!
@@ -100,31 +117,46 @@
 - לבקשות מיוחדות נא לפנות ישירות לינה בטלפון <a href="tel:0546405208" target="_blank">0546405208</a> או ב<a href="https://wa.me/972546405208" target="_blank">ווטסאפ</a>
 
 
+
+
 ![](assets/1795537433.jpg)
+
 </div>
 
 
 <div dir="rtl">
 ## פונצ׳ו פינוקי
+
+
 קשה לתאר כמה קסום הפונצ׳ו של ינהצ׳קה על הגוף, וכמה ייחודיות הוא מביא איתו.
 בכל צבע או מידה שתבחרו תרגישו את החום והאהבה מהידיים של ינהצ׳קה♥️
 הפונצ׳ו נסרג בהזמנה אישית במיוחד לפי המידה והצבע שתבחרו.🧶
 נסרג כולו מחוטי אקריל, ניתן לכביסה עדינה ב<b>30-40 מעלות!</b>
 
 
+
+
 ![](assets/1780900884.jpg)
+
 </div>
 
 
 <div dir="rtl">
 ## סט נעלולים וכובע לתינוק
+
+
 None
+
+
 ![](assets/1777990074.jpg)
+
 </div>
 
 
 <div dir="rtl">
 ## ארנב רעשן
+
+
 
 על בונבון הארנבון שמעתם?
 כזה בונבון!
@@ -143,12 +175,17 @@ None
 - ינה סורגת את הבובות במיוחד אז הכנת הבובה תיקח בין שבוע לשבועיים
 
 - לבקשות מיוחדות נא לפנות ישירות לינה בטלפון <a href="tel:0546405208" target="_blank">0546405208</a> או ב<a href="https://wa.me/972546405208" target="_blank">ווטסאפ</a>
+
+
 ![](assets/1754637581.jpg)
+
 </div>
 
 
 <div dir="rtl">
 ## כלב אקורדיון
+
+
 
 צביקה הוא ללא ספק הכלב הכי יפה בשכונה של ינה - עשוי כולו מחוטי אקריל ונסרג באהבה רבה!
 קשה להישאר אדישים אל מול צביקוש היפיוף הזה, הצבעוניות שלו משמחת את כולם, האקורדיון שלו מצחיק את הילדים :)
@@ -160,12 +197,17 @@ None
 - ינה סורגת את הבובות במיוחד אז הכנת הבובה תיקח בין שבוע לשבועיים
 
 - לבקשות מיוחדות נא לפנות ישירות לינה בטלפון <a href="tel:0546405208" target="_blank">0546405208</a> או ב<a href="https://wa.me/972546405208" target="_blank">ווטסאפ</a>
+
+
 ![](assets/1745378983.jpg)
+
 </div>
 
 
 <div dir="rtl">
 ## אצבעון חיות
+
+
 
 את אצבעון החיות יצרתי לפי הזמנה מיוחדת של הנכדים!
 הם בנו תיאטרון בובות מרהיב וביקשו ממני ליצור עבורם אריה, פיל וצפרדע! סבתא ינה לא אומרת לא.. וחיש מהר נולדו בובות אצבע מתוקות ♥️
@@ -179,12 +221,17 @@ None
 - ינה סורגת את הבובות במיוחד אז הכנת הבובה תיקח בין שבוע לשבועיים
 
 - לבקשות מיוחדות נא לפנות ישירות לינה בטלפון <a href="tel:0546405208" target="_blank">0546405208</a> או ב<a href="https://wa.me/972546405208" target="_blank">ווטסאפ</a>
+
+
 ![](assets/1732173428.jpg)
+
 </div>
 
 
 <div dir="rtl">
 ## תרומה - תמנונים לפגים
+
+
 
 <span class="redactor-invisible-space">סביב יום כיפור 2020 החלטתי לסרוג תמנונים לפגים! ב48 שעות בהן בקושי קמתי מהספה, הצלחתי לסרוג 
 **10** תמנונים אותם אתרום למחלקת פגים בבית החולים אסותא שבאשדוד.</span>
@@ -200,12 +247,17 @@ None
 וכנסו גם לקבוצת הפייסבוק החמודה שלהם -
 <a href="https://www.facebook.com/preemieoctopiIL/">https://www.facebook.com/preemieoctopiIL/</a>
 
+
+
 ![](assets/1683168675.jpg)
+
 </div>
 
 
 <div dir="rtl">
 ## הפנתר הורוד
+
+
 
 מי לא מכיר ואוהב את החיה הכי ורודה ומסתורית?
 הפנתר הורוד ישמח לעזור לכם לפתור כל תעלומה, למצוא את הפושעים וגם לשלוף דברים מהכיסים!
@@ -218,12 +270,17 @@ None
 - ינה סורגת את הבובות במיוחד אז הכנת הבובה תיקח בין שבוע לשבועיים
 
 - לבקשות מיוחדות נא לפנות ישירות לינה בטלפון <a href="tel:0546405208" target="_blank">0546405208</a> או ב<a href="https://wa.me/972546405208" target="_blank">ווטסאפ</a>
+
+
 ![](assets/1654618990.jpg)
+
 </div>
 
 
 <div dir="rtl">
 ## רעשן נשכן לתינוקות
+
+
 
 הרעשן הקסומים של ינהצ'קה הם המתנה המושלמת עבור תינוק שרק נולד!
 ינהצ'קה תשמח לסרוג עבורכם רעשן, בדיוק בצבע שתבחרו :)
@@ -235,12 +292,17 @@ None
 - ינה סורגת את הבובות במיוחד אז הכנת הבובה תיקח בין שבוע לשבועיים
 
 - לבקשות מיוחדות נא לפנות ישירות לינה בטלפון <a href="tel:0546405208" target="_blank">0546405208</a> או ב<a href="https://wa.me/972546405208" target="_blank">ווטסאפ</a>
+
+
 ![](assets/1652655134.jpg)
+
 </div>
 
 
 <div dir="rtl">
 ## ינשופית מגונדרת
+
+
 
 יונה הינשופית היא המגונדרת שבחבורה!
 היא תמיד יודעת מה שיק ומה שוק וכמובן איפה המקום הכי שווה לקנות בו בגדים לחג!
@@ -255,12 +317,17 @@ None
 - ינה סורגת את הבובות במיוחד אז הכנת הבובה תיקח בין שבוע לשבועיים
 
 - לבקשות מיוחדות נא לפנות ישירות לינה בטלפון <a href="tel:0546405208" target="_blank">0546405208</a> או ב<a href="https://wa.me/972546405208" target="_blank">ווטסאפ</a>
+
+
 ![](assets/1652623738.jpg)
+
 </div>
 
 
 <div dir="rtl">
 ## רעשן לתינוק
+
+
 
 שני הרעשנים המקסימים של ינה נולדו כשנולדה נכדתה אנה!
 הם מאוד נוחים להחזקה ביד התינוק, בטיחותיים להכניס לפה ומעניינים להסתכל עליהם :)
@@ -273,12 +340,17 @@ None
 - ינה סורגת את הבובות במיוחד אז הכנת הבובה תיקח בין שבוע לשבועיים
 
 - לבקשות מיוחדות נא לפנות ישירות לינה בטלפון <a href="tel:0546405208" target="_blank">0546405208</a> או ב<a href="https://wa.me/972546405208" target="_blank">ווטסאפ</a>
+
+
 ![](assets/1650519488.jpg)
+
 </div>
 
 
 <div dir="rtl">
 ## צופי הצפרדע
+
+
 
 כן כן, גם צופי כידוע בוגרת להקת המחול של גן החיות של ינה!
 צופי היא הסולנית הראשית במופע הצפרדעים! זאת כמובן בזכות זה שצופי היא הרקדנית הכי מתמידה, ירוקה וזללנית בלהקה!
@@ -290,12 +362,17 @@ None
 - ינה סורגת את הבובות במיוחד אז הכנת הבובה תיקח בין שבוע לשבועיים
 
 - לבקשות מיוחדות נא לפנות ישירות לינה בטלפון <a href="tel:0546405208" target="_blank">0546405208</a> או ב<a href="https://wa.me/972546405208" target="_blank">ווטסאפ</a>
+
+
 ![](assets/1650519038.jpg)
+
 </div>
 
 
 <div dir="rtl">
 ## נוני הישנונית
+
+
 
 בובת שינה נעימה, צבעונית וחמודה! קלילה ונוחה לחיבוק :)
 מחכה לילד.ה שיאהבו אותה וירדמו איתה!
@@ -308,12 +385,17 @@ None
 - ינה סורגת את הבובות במיוחד אז הכנת הבובה תיקח בין שבוע לשבועיים
 
 - לבקשות מיוחדות נא לפנות ישירות לינה בטלפון <a href="tel:0546405208" target="_blank">0546405208</a> או ב<a href="https://wa.me/972546405208" target="_blank">ווטסאפ</a>
+
+
 ![](assets/1650510457.jpg)
+
 </div>
 
 
 <div dir="rtl">
 ## תרנגולת מטורללת
+
+
 
 אתם מכירים את התרנגולת הזאת שכולם מכירים?
 אז טרולי התרנגולת היא בדיוק זאת.
@@ -326,12 +408,17 @@ None
 - ינה סורגת את הבובות במיוחד אז הכנת הבובה תיקח בין שבוע לשבועיים
 
 - לבקשות מיוחדות נא לפנות ישירות לינה בטלפון <a href="tel:0546405208" target="_blank">0546405208</a> או ב<a href="https://wa.me/972546405208" target="_blank">ווטסאפ</a>
+
+
 ![](assets/1650508442.jpg)
+
 </div>
 
 
 <div dir="rtl">
 ## צנוני הליצן המצחיק
+
+
 
 צנוני הליצן עושה הפעלות ימי הולדת, בר מצוות, חתונות וכמובן הפעלה מרכזית בחתונות!
 למשל כשהעכברוני וחזירונת התחתנו, הוא הרים מופע בלתי נשכח!
@@ -345,12 +432,17 @@ None
 - ינה סורגת את הבובות במיוחד אז הכנת הבובה תיקח בין שבוע לשבועיים
 
 - לבקשות מיוחדות נא לפנות ישירות לינה בטלפון <a href="tel:0546405208" target="_blank">0546405208</a> או ב<a href="https://wa.me/972546405208" target="_blank">ווטסאפ</a>
+
+
 ![](assets/1650489511.jpg)
+
 </div>
 
 
 <div dir="rtl">
 ## כבשה
+
+
 
 הכיבשה של ינה עשויה כולה מ100% כותנה, נסרגת באהבה רבה בדיוק כל חברותיה החיות!
 כל הכבשים ניתנות לכביסה במכונת הכביסה שלכם, 30-40 מעלות.
@@ -363,12 +455,17 @@ None
 - ינה סורגת את הבובות במיוחד אז הכנת הבובה תיקח בין שבוע לשבועיים
 
 - לבקשות מיוחדות נא לפנות ישירות לינה בטלפון <a href="tel:0546405208" target="_blank">0546405208</a> או ב<a href="https://wa.me/972546405208" target="_blank">ווטסאפ</a>
+
+
 ![](assets/1650429647.jpg)
+
 </div>
 
 
 <div dir="rtl">
 ## ינשופית
+
+
 
 הינשופית של ינה עשויה כולה מחוטי אקריל סינטטיים, נסרגת באהבה רבה בדיוק כמו כל חברותיה החיות!
 כמובן הינשופית ערה הלילה וישנה ביום, אבל אל תדאגו - היא לא זקוקה ליחס מיוחד בלילה :)
@@ -380,12 +477,17 @@ None
 - ינה סורגת את הבובות במיוחד אז הכנת הבובה תיקח בין שבוע לשבועיים
 
 - לבקשות מיוחדות נא לפנות ישירות לינה בטלפון <a href="tel:0546405208" target="_blank">0546405208</a> או ב<a href="https://wa.me/972546405208" target="_blank">ווטסאפ</a>
+
+
 ![](assets/1646431420.jpg)
+
 </div>
 
 
 <div dir="rtl">
 ## עכברונית רקדנית
+
+
 
 העכברונית שלנו גם היא בוגרת להקת הבלט של גן החיות!
 יודעת לבצע את היצירה אגם העכברונים המפורסמת!
@@ -398,12 +500,17 @@ None
 - ינה סורגת את הבובות במיוחד אז הכנת הבובה תיקח בין שבוע לשבועיים
 
 - לבקשות מיוחדות נא לפנות ישירות לינה בטלפון <a href="tel:0546405208" target="_blank">0546405208</a> או ב<a href="https://wa.me/972546405208" target="_blank">ווטסאפ</a>
+
+
 ![](assets/1646347606.jpg)
+
 </div>
 
 
 <div dir="rtl">
 ## חזירונת מתוקונת
+
+
 
 החזירונת שלנו גם היא בוגרת להקת הבלט של גן החיות!
 יודעת לעשות פירואט כפול שישאיר אתכם המומים!
@@ -415,12 +522,17 @@ None
 - ינה סורגת את הבובות במיוחד אז הכנת הבובה תיקח בין שבוע לשבועיים
 
 - לבקשות מיוחדות נא לפנות ישירות לינה בטלפון <a href="tel:0546405208" target="_blank">0546405208</a> או ב<a href="https://wa.me/972546405208" target="_blank">ווטסאפ</a>
+
+
 ![](assets/1646322116.jpg)
+
 </div>
 
 
 <div dir="rtl">
 ## כלבלב
+
+
 
 נוסטלגיה זה כאן!
 גדלנו על הסרט ברמיינסקי מוזיקנטי ובזכות ינה החיות האהובות עלינו חזרו לחיינו! וכעת הנכדים זוכים לשחק איתן:)
@@ -433,12 +545,17 @@ None
 - ינה סורגת את הבובות במיוחד אז הכנת הבובה תיקח בין שבוע לשבועיים
 
 - לבקשות מיוחדות נא לפנות ישירות לינה בטלפון <a href="tel:0546405208" target="_blank">0546405208</a> או ב<a href="https://wa.me/972546405208" target="_blank">ווטסאפ</a>
+
+
 ![](assets/1644050700.jpg)
+
 </div>
 
 
 <div dir="rtl">
 ## חמוריקו
+
+
 
 נוסטלגיה זה כאן!
 
@@ -454,12 +571,17 @@ None
 - ינה סורגת את הבובות במיוחד אז הכנת הבובה תיקח בין שבוע לשבועיים
 
 - לבקשות מיוחדות נא לפנות ישירות לינה בטלפון <a href="tel:0546405208" target="_blank">0546405208</a> או ב<a href="https://wa.me/972546405208" target="_blank">ווטסאפ</a>
+
+
 ![](assets/1644050640.jpg)
+
 </div>
 
 
 <div dir="rtl">
 ## צ'דר העכברון
+
+
 
 צ'דר העכברון של ינה אוהב מאוד גבינות, במיוחד גבינת צ'דר - ועל כן שמו :)
 הוא והחתולון הם צוות מנצח, אך ישתלב נהדר עם כל אוסף בובות שיש לכם!
@@ -473,12 +595,17 @@ None
 - ינה סורגת את הבובות במיוחד אז הכנת הבובה תיקח בין שבוע לשבועיים
 
 - לבקשות מיוחדות נא לפנות ישירות לינה בטלפון <a href="tel:0546405208" target="_blank">0546405208</a> או ב<a href="https://wa.me/972546405208" target="_blank">ווטסאפ</a>
+
+
 ![](assets/1644044737.jpg)
+
 </div>
 
 
 <div dir="rtl">
 ## חתולון שמח
+
+
 
 חתולון שובה לב, ישמח לשחק אתכם בכל משחק דמיון שתמציאו עבורו! הוא יודע לשיר ולרקוד.. ואפילו לספר בדיחות!
 
@@ -493,12 +620,17 @@ None
 - ינה סורגת את הבובות במיוחד אז הכנת הבובה תיקח בין שבוע לשבועיים
 
 - לבקשות מיוחדות נא לפנות ישירות לינה בטלפון <a href="tel:0546405208" target="_blank">0546405208</a> או ב<a href="https://wa.me/972546405208" target="_blank">ווטסאפ</a>
+
+
 ![](assets/1650440355.jpg)
+
 </div>
 
 
 <div dir="rtl">
 ## ארנבון
+
+
 
 
 **המחיר הוא עבור בובת ארנב בודדת**
@@ -516,12 +648,17 @@ None
 - ינה סורגת את הבובות במיוחד אז הכנת הבובה תיקח בין שבוע לשבועיים
 
 - לבקשות מיוחדות נא לפנות ישירות לינה בטלפון <a href="tel:0546405208" target="_blank">0546405208</a> או ב<a href="https://wa.me/972546405208" target="_blank">ווטסאפ</a>
+
+
 ![](assets/1644049292.jpg)
+
 </div>
 
 
 <div dir="rtl">
 ## היפופוטמית
+
+
 
 ראיתם פעם היפופוטמית שרוקדת בלט? אז תכירו את היפי ההיפית שלנו בוגרת להקת המחול של גן החיות של ינה!!
 היא יפה, עדינה, סבלנית והכי חשוב - אוהבת את כווולם!
@@ -534,12 +671,17 @@ None
 - ינה סורגת את הבובות במיוחד אז הכנת הבובה תיקח בין שבוע לשבועיים
 
 - לבקשות מיוחדות נא לפנות ישירות לינה בטלפון <a href="tel:0546405208" target="_blank">0546405208</a> או ב<a href="https://wa.me/972546405208" target="_blank">ווטסאפ</a>
+
+
 ![](assets/1674283171.jpg)
+
 </div>
 
 
 <div dir="rtl">
 ## מיקי מאוס
+
+
 
 את מיקי מאוס לא צריך להציג, כולכם מכירים את הפרזנטור של וולט דיסני :)
 מיקי נסרג מ100% כותנה, ניתן לכבס אותו במכונת הכביסה על 30-40 מעלות
@@ -550,12 +692,17 @@ None
 - ינה סורגת את הבובות במיוחד אז הכנת הבובה תיקח בין שבוע לשבועיים
 
 - לבקשות מיוחדות נא לפנות ישירות לינה בטלפון <a href="tel:0546405208" target="_blank">0546405208</a> או ב<a href="https://wa.me/972546405208" target="_blank">ווטסאפ</a>
+
+
 ![](assets/1643925965.jpg)
+
 </div>
 
 
 <div dir="rtl">
 ## קרקדיל גנה
+
+
 
 עצרו הכל! ראיתם פעם תנין עם סריג וצווארון כל כך יפה?
 גנה הקרקדיל האהוב שלנו, מוכן לצאת אתכם לטיול בגינה או סתם לארח לכם חברה בארוחת הערב :)
@@ -570,12 +717,17 @@ None
 - ינה סורגת את הבובות במיוחד אז הכנת הבובה תיקח בין שבוע לשבועיים
 
 - לבקשות מיוחדות נא לפנות ישירות לינה בטלפון <a href="tel:0546405208" target="_blank">0546405208</a> או ב<a href="https://wa.me/972546405208" target="_blank">ווטסאפ</a>
+
+
 ![](assets/1643933186.jpg)
+
 </div>
 
 
 <div dir="rtl">
 ## קוף אדום
+
+
 
 <span style="font-size: 18px;">הקוף האדום נולד בהזמנה מיוחדת של זיוי הנכד של ינה!</span>
 
@@ -590,12 +742,17 @@ None
 
 <span style="font-size: 18px;"></span>
 - לבקשות מיוחדות נא לפנות ישירות לינה בטלפון <a href="tel:0546405208" target="_blank">0546405208</a> או ב<a href="https://wa.me/972546405208" target="_blank">ווטסאפ</a>
+
+
 ![](assets/1650433285.jpg)
+
 </div>
 
 
 <div dir="rtl">
 ## תרנגול
+
+
 
 קו קו רי קו ! הגיע הזמן להתעורר :)
 ריקו הקוקוריקו של ינה כבר לבוש ומוכן להתחיל את היום!
@@ -608,12 +765,17 @@ None
 - ינה סורגת את הבובות במיוחד אז הכנת הבובה תיקח בין שבוע לשבועיים
 
 - לבקשות מיוחדות נא לפנות ישירות לינה בטלפון <a href="tel:0546405208" target="_blank">0546405208</a> או ב<a href="https://wa.me/972546405208" target="_blank">ווטסאפ</a>
+
+
 ![](assets/1662847675.jpg)
+
 </div>
 
 
 <div dir="rtl">
 ## מלך האריות
+
+
 
 גם אצל ינה בסלון בין כל הבובות, אריק האריה הוא ללא ספק מלך החיות!
 הוא מרשים, גדול, יפה, שומר על הבית וכולם יודעים שלא כדאי לעצבן אותו ;)
@@ -625,12 +787,17 @@ None
 - ינה סורגת את הבובות במיוחד אז הכנת הבובה תיקח בין שבוע לשבועיים
 
 - לבקשות מיוחדות נא לפנות ישירות לינה בטלפון <a href="tel:0546405208" target="_blank">0546405208</a> או ב<a href="https://wa.me/972546405208" target="_blank">ווטסאפ</a>
+
+
 ![](assets/1600777380.jpg)
+
 </div>
 
 
 <div dir="rtl">
 ## סמי הכבאי
+
+
 
 השעון צלצל גלין גלאן, סמי הכבאי מוכן!
 אין צורך להציג את סמי, כל ילד (והורה) מכיר אותו! הוא הכבאי הגיבור!
@@ -644,12 +811,17 @@ None
 - ינה סורגת את הבובות במיוחד אז הכנת הבובה תיקח בין שבוע לשבועיים
 
 - לבקשות מיוחדות נא לפנות ישירות לינה בטלפון <a href="tel:0546405208" target="_blank">0546405208</a> או ב<a href="https://wa.me/972546405208" target="_blank">ווטסאפ</a>
+
+
 ![](assets/1650430944.jpg)
+
 </div>
 
 
 <div dir="rtl">
 ## ג׳ירפה מצחיקה
+
+
 
 הג'ירפה של ינה עשויה כולה מ100% כותנה, נסרגת באהבה רבה בדיוק כל חברותיה החיות!
 הג'ירפה שתקבלו נסרגה בצבעים קצת שונים מחברתה, בכל זאת אין 2 ג'ירפות זהות בעולם.. ;)
@@ -663,12 +835,17 @@ None
 - ינה סורגת את הבובות במיוחד אז הכנת הבובה תיקח בין שבוע לשבועיים
 
 - לבקשות מיוחדות נא לפנות ישירות לינה בטלפון <a href="tel:0546405208" target="_blank">0546405208</a> או ב<a href="https://wa.me/972546405208" target="_blank">ווטסאפ</a>
+
+
 ![](assets/1646363398.jpg)
+
 </div>
 
 
 <div dir="rtl">
 ## דינו הדינוזאור
+
+
 
 דינו שלנו תמיד גורם להתרגשות גדולה בקרב כל הנכדים!
 הוא מצחיק, שובב ופטפטן!! יש בו כל מה שהילד שלכם רוצה - נוח לחבק ונוח לשחק :)
@@ -681,12 +858,17 @@ None
 - ינה סורגת את הבובות במיוחד אז הכנת הבובה תיקח בין שבוע לשבועיים
 
 - לבקשות מיוחדות נא לפנות ישירות לינה בטלפון <a href="tel:0546405208" target="_blank">0546405208</a> או ב<a href="https://wa.me/972546405208" target="_blank">ווטסאפ</a>
+
+
 ![](assets/1652648036.jpg)
+
 </div>
 
 
 <div dir="rtl">
 ## קופיפי
+
+
 
 הקופיף הכי מפורסם של ינה!
 קוקו הקופיף קיבל את שמו מילדה מתוקה ושמה תמר, בזכות הקוקו שיש לו :)
@@ -702,12 +884,17 @@ None
 - ינה סורגת את הבובות במיוחד אז הכנת הבובה תיקח בין שבוע לשבועיים
 
 - לבקשות מיוחדות נא לפנות ישירות לינה בטלפון <a href="tel:0546405208" target="_blank">0546405208</a> או ב<a href="https://wa.me/972546405208" target="_blank">ווטסאפ</a>
+
+
 ![](assets/1646572560.jpg)
+
 </div>
 
 
 <div dir="rtl">
 ## דרדס
+
+
 
 לפני הרבה הרבה שנים
 בתוך יער עבות
@@ -726,12 +913,17 @@ None
 
 - לבקשות מיוחדות נא לפנות ישירות לינה בטלפון <a href="tel:0546405208" target="_blank">0546405208</a> או ב<a href="https://wa.me/972546405208" target="_blank">ווטסאפ</a>
 <span class="redactor-invisible-space"></span>
+
+
 ![](assets/1600766657.jpg)
+
 </div>
 
 
 <div dir="rtl">
 ## רעשן נעים לתינוקות
+
+
 
 עוד חביב קהל הוא הכלבלב רעשן של ינה!
 טומן בחובו הפתעה מרשרשת שתפתיע ותאתגר את התינוקות וגם את הפעוטות :)
@@ -744,12 +936,17 @@ None
 - ינה סורגת את הבובות במיוחד אז הכנת הבובה תיקח בין שבוע לשבועיים
 
 - לבקשות מיוחדות נא לפנות ישירות לינה בטלפון <a href="tel:0546405208" target="_blank">0546405208</a> או ב<a href="https://wa.me/972546405208" target="_blank">ווטסאפ</a>
+
+
 ![](assets/1650441159.jpg)
+
 </div>
 
 
 <div dir="rtl">
 ## צ׳יבורשקה
+
+
 
 יש פה מישהו שלא מכיר את צ'יבורשקה?
 לא נראה לנו!
@@ -766,12 +963,17 @@ None
 - לבקשות מיוחדות נא לפנות ישירות לינה בטלפון <a href="tel:0546405208" target="_blank">0546405208</a> או ב<a href="https://wa.me/972546405208" target="_blank">ווטסאפ</a>
 
 
+
+
 ![](assets/1646354751.jpg)
+
 </div>
 
 
 <div dir="rtl">
 ## תרנגולית
+
+
 
 ריקי התרנגולית היא החברה הכי טובה של ריקו הקוקוריקו!
 ביחד הם צמד חמד לעניין, אך גם לבד היא תתנהג מאוד יפה בביתכם :)
@@ -784,6 +986,9 @@ None
 - ינה סורגת את הבובות במיוחד אז הכנת הבובה תיקח בין שבוע לשבועיים
 
 - לבקשות מיוחדות נא לפנות ישירות לינה בטלפון <a href="tel:0546405208" target="_blank">0546405208</a> או ב<a href="https://wa.me/972546405208" target="_blank">ווטסאפ</a>
+
+
 ![](assets/1642900801.jpg)
+
 </div>
 
