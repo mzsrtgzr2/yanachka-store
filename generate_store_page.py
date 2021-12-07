@@ -30,7 +30,7 @@ with open('README.md', 'w') as fp:
 <div dir="rtl">
 <h2>{title} - {price}</h2>
 
-<img src="{local_image}" style="max-height:200px;"/>
+<img src="{local_image}" style="max-height:300px;"/>
 <p>
 {description}
 </p>
