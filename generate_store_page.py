@@ -19,6 +19,7 @@ with open('README.md', 'w') as fp:
             # description = re.sub(r'<strong>(.*?)</strong>', r'\n**\1**', description, re.UNICODE)
             # description = re.sub(r'<u>(.*?)</u>', r'\n*\1*', description, re.UNICODE)
         image_to_download = item.get('imageUrl')
+        price = item.get('defaultDisplayedPriceFormatted')
 
         image_name = image_to_download.split('/')[-1]
         local_image = f"assets/{image_name}"
@@ -28,7 +29,9 @@ with open('README.md', 'w') as fp:
         product_text = f"""
 <div dir="rtl">
 <h2>{title}</h2>
+
 <img src="{local_image}" style="max-height:200px;"/>
+<h4>{price}</h4>
 <p>
 {description}
 </p>
