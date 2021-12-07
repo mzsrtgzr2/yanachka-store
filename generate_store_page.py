@@ -6,7 +6,7 @@ with open('./items.json', 'r') as fp:
     items = json.load(fp)
 
 with open('README.md', 'w') as fp:
-    fp.write('# החנות של ינהצ׳קה\n')
+    fp.write('<center><h1>החנות של ינהצ׳קה</h1></center>\n')
 
     for item in items:
         title = item.get('name')
@@ -27,8 +27,10 @@ with open('README.md', 'w') as fp:
 
 
         product_text = f"""
+<div dir="rtl">
 ## {title}
-#### {description}
+{description}
 ![]({local_image})
+</div>
 """
         fp.write(product_text + '\n')
