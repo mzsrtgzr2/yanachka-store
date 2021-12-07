@@ -30,9 +30,9 @@ with open('README.md', 'w') as fp:
 <h2>{title}</h2>
 <p>
 {description}
+<br><img src="{local_image}" style="max-height:200px;"/>
 </p>
 
-<img src="{local_image}" style="max-height:200px;"/>
 </div>
 """
-        fp.write(product_text + '\n')
+        fp.write(product_text + '<br/>')
