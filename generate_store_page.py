@@ -13,9 +13,9 @@ with open('README.md', 'w') as fp:
         print('processing item', title)
         description = item.get('description')
         if description:
-            description = re.sub(r'<p>(.*?)</p>', r'\n\1', description, re.UNICODE)
-            description = description.replace('<br/>', '\n')
-            description = description.replace('<br>', '\n')
+            description = re.sub(r'<p>(.*?)</p>', r'<br>\1', description, re.UNICODE)
+            # description = description.replace('<br/>', '\n')
+            # description = description.replace('<br>', '\n')
             description = re.sub(r'<strong>(.*?)</strong>', r'\n**\1**', description, re.UNICODE)
             description = re.sub(r'<u>(.*?)</u>', r'\n*\1*', description, re.UNICODE)
         image_to_download = item.get('imageUrl')
@@ -28,12 +28,11 @@ with open('README.md', 'w') as fp:
         product_text = f"""
 <div dir="rtl">
 <h2>{title}</h2>
-<h4>
+<p>
 {description}
-</h4>
+</p>
 
-![]({local_image})
-
+<img src="{local_image}" style="max-height:200px;"/>
 </div>
 """
         fp.write(product_text + '\n')
