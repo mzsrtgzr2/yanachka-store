@@ -18,7 +18,6 @@ with open('README.md', 'w') as fp:
             description = description.replace('<br>', '\n')
             description = re.sub(r'<strong>(.*?)</strong>', r'\n**\1**', description, re.UNICODE)
             description = re.sub(r'<u>(.*?)</u>', r'\n*\1*', description, re.UNICODE)
-        print(description)
         image_to_download = item.get('imageUrl')
 
         image_name = image_to_download.split('/')[-1]
