@@ -6,7 +6,7 @@ with open('./items.json', 'r') as fp:
     items = json.load(fp)
 
 with open('README.md', 'w') as fp:
-    fp.write('<link rel="shortcut icon" type="image/png" href="assets/icon.png">\n')
+    fp.write('<link rel="shortcut icon" type="image/png" href="assets/icon.png"><link rel="icon" type="image/png" href="assets/icon.png">\n')
     for item in items:
         title = item.get('name')
         fp.write(f'[ {title} ](#{title})&nbsp;')
