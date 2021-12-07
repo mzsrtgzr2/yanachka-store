@@ -13,8 +13,11 @@ with open('README.md', 'w') as fp:
         print('processing item', title)
         description = item.get('description')
         if description:
-        #     description = re.sub(r'<p>(.*?)</p>', r'\n\0', description)
+            description = re.sub(r'<p>(.*?)</p>', r'\n\1', description, re.UNICODE)
             description = description.replace('<br/>', '\n')
+            description = description.replace('<br>', '\n')
+            description = re.sub(r'<strong>(.*?)</strong>', r'\n**\1**', description, re.UNICODE)
+            description = re.sub(r'<u>(.*?)</u>', r'\n*\1*', description, re.UNICODE)
         print(description)
         image_to_download = item.get('imageUrl')
 
