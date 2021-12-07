@@ -28,11 +28,11 @@ with open('README.md', 'w') as fp:
         product_text = f"""
 <div dir="rtl">
 <h2>{title}</h2>
+<img src="{local_image}" style="max-height:200px;"/>
 <p>
 {description}
-<br><img src="{local_image}" style="max-height:200px;"/>
 </p>
-
+<br>
 </div>
 """
         fp.write(product_text + '<br/>')
