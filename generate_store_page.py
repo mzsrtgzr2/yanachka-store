@@ -28,10 +28,9 @@ with open('README.md', 'w') as fp:
 
         product_text = f"""
 <div dir="rtl">
-<h2>{title}</h2>
+<h2>{title} - {price}</h2>
 
 <img src="{local_image}" style="max-height:200px;"/>
-<h4>{price}</h4>
 <p>
 {description}
 </p>
