@@ -7,6 +7,9 @@ with open('./items.json', 'r') as fp:
 
 with open('README.md', 'w') as fp:
     fp.write('<center><h1> </h1></center>\n')
+    for item in items:
+        title = item.get('name')
+        fp.write(f'[ {title} ](#{title})\n')
 
     for item in items:
         title = item.get('name')
@@ -28,6 +31,7 @@ with open('README.md', 'w') as fp:
 
         product_text = f"""
 <div dir="rtl">
+<a name="{title}"></a>
 <h2>{title} - {price}</h2>
 
 <img src="{local_image}" style="max-height:300px;"/>
