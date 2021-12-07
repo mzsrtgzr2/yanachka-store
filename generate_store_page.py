@@ -27,10 +27,11 @@ with open('README.md', 'w') as fp:
 
         product_text = f"""
 <div dir="rtl">
-## {title}
-\n
+<h2>{title}</h2>
+<h4>
 {description}
-\n
+</h4>
+
 ![]({local_image})
 
 </div>
