@@ -1,5 +1,4 @@
 import json
-import urllib.request
 import re
 
 with open('./items.json', 'r') as fp:
@@ -21,12 +20,9 @@ with open('README.md', 'w') as fp:
             # description = description.replace('<br>', '\n')
             # description = re.sub(r'<strong>(.*?)</strong>', r'\n**\1**', description, re.UNICODE)
             # description = re.sub(r'<u>(.*?)</u>', r'\n*\1*', description, re.UNICODE)
-        image_to_download = item.get('imageUrl')
+        local_image = item.get('imageUrl')
         price = item.get('defaultDisplayedPriceFormatted')
 
-        image_name = image_to_download.split('/')[-1]
-        local_image = f"assets/{image_name}"
-        urllib.request.urlretrieve(image_to_download, local_image)
 
 
         product_text = f"""
