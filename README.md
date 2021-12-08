@@ -61,7 +61,7 @@
 
 <img src="assets/1777990074.jpg" style="max-height:300px;"/>
 <p>
-None
+
 </p>
 <br>
 </div>
