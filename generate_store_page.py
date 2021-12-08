@@ -13,7 +13,7 @@ with open('README.md', 'w') as fp:
     for item in items:
         title = item.get('name')
         print('processing item', title)
-        description = item.get('description')
+        description = item.get('description', '') or ''
         # if description:
             # description = re.sub(r'<p>(.*?)</p>', r'<br>\1', description, re.UNICODE)
             # description = description.replace('<br/>', '\n')
