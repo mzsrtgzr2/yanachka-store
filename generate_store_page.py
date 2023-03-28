@@ -11,19 +11,25 @@ for ii, item in enumerate(items):
     image = item.get('imageUrl')
     price = item.get('defaultDisplayedPriceFormatted')
     
+    description = description.replace('</p><p>', '. ').replace('<p>', '').replace('</p>', '')
+    
     with open(f'./_posts/2023-03-27-{ii}.md', 'w') as fp:
         fp.write(f'''---
 layout: post
 title:  {title}
 categories: [ all ]
+author: yana
 image: {image}
 beforetoc: 
 toc: true
 price: {price}
 ---
 {description}
+
 <p><u>שימו לב:</u></p>
-<p>- התשלום בפייבוקס או מזומן</p><p>- ינה סורגת את הבובות במיוחד אז הכנת הבובה תיקח בין שבוע לשבועיים<br></p><p>- לבקשות מיוחדות נא לפנות ישירות לינה בטלפון <a href="tel:0546405208" target="_blank">0546405208</a> או ב<a href="https://wa.me/972546405208" target="_blank">ווטסאפ</a></p>
+<p>- התשלום בפייבוקס או מזומן</p>
+<p>- ינה סורגת את הבובות במיוחד אז הכנת הבובה תיקח בין שבוע לשבועיים<br></p>
+<p>- לבקשות מיוחדות נא לפנות ישירות לינה בטלפון <a href="tel:0546405208" target="_blank">0546405208</a> או ב<a href="https://wa.me/972546405208?text=שלום, בקשר ל{title} נראה מעניין מאוד" target="_blank">ווטסאפ</a></p>
 ''')
 
 # with open('README.md', 'w') as fp:
