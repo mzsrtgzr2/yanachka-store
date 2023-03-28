@@ -5,7 +5,7 @@ description: "😻🎁  בובות בעבודת יד"
 logo: 'assets/images/logo.png'
 favicon: 'assets/images/logo.png'
 baseurl: ''
-google_analytics: 'UA-xxxxxxxx-1'
+google_analytics: 'UA-177604941-1'
 disqus: 'demowebsite'
 mailchimp-list: 
 include: ["_pages"]
