@@ -1,7 +1,7 @@
 # Site
-name: " ינהצ׳קה"
-title: "Moshe Roth Art"
-description: "😻🎁   בובות בעבודת יד"
+name: "Yanachka"
+title: "ינהצ׳קה"
+description: "😻🎁  בובות בעבודת יד"
 logo: 'assets/images/logo.png'
 favicon: 'assets/images/logo.png'
 baseurl: ''
@@ -50,7 +50,7 @@ jekyll-archives:
     category: '/category/:name/'
     
 # Pagination 
-paginate: 6
+paginate: 1000
 paginate_path: /page:num/
     
 # Other

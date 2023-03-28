@@ -15,10 +15,14 @@ $enable-rounded: false;
 @import 'bootstrap/bootstrap';
 @import 'stars';
 
-
+@font-face {
+    font-family: "carmela";
+    src: url("../assets/fonts/font/carmela.tff");
+  }
+  
 // general
 body, input, button, select, optgroup, textarea {   
-    font-family:Sen;
+    
 }
 body {
     line-height:1.7;
@@ -37,6 +41,12 @@ h1,h2,h3,h4,h5,h6 {
 }
 .site-content {
     padding-top:50px;
+}
+
+.container {
+    font-family: carmela;
+    direction:rtl;
+    text-align: right;
 }
 .sitetag {
     font-weight:700;    
@@ -112,9 +122,18 @@ img, img:hover {
 .featured-image, .firstpage .blog-grid-item:nth-child(1), .firstpage .blog-grid-item:nth-child(2), .firstpage .blog-grid-item:nth-child(3) {
     animation: fade-up 0.7s ease-out forwards running;
 }
+
+.featured-image{
+    max-height: 40vw;
+}
 // menu
+.navbar-brand {
+    text-align: center;
+    direction: ltr;
+    width: 100%;
+}
 .navbar-brand img {
-    max-height:80px;
+    max-height:150px;
     margin-bottom:40px;
     margin-top:40px;
 }

@@ -41,6 +41,7 @@
   min-height: 1px;
   padding: $card-spacer-x;
   color: $card-color;
+  flex-grow: 1;
 }
 
 .card-title {
