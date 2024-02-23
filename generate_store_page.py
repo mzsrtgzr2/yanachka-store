@@ -13,7 +13,7 @@ for ii, item in enumerate(items):
     
     description = description.replace('</p><p>', '. ').replace('<p>', '').replace('</p>', '')
     
-    with open(f'./_posts/2023-03-27-{ii}.md', 'w') as fp:
+    with open(f'./_posts/2024-02-23-{ii}.md', 'w') as fp:
         fp.write(f'''---
 layout: post
 title:  {title}
